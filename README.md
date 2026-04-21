@@ -13,3 +13,7 @@ This is a beginner AI project where I am experimenting with basic machine learni
 
 ## Status
 Work in progress
+## Future Improvements
+- Add real dataset
+- Improve model accuracy
+- Build simple UI
